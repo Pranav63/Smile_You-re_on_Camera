@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1499327746 source:c:\users\pranav_a\desktop\face_recog\main.cpp
+	<iostream>
+	<opencv2/highgui/highgui.hpp>
+
+1499334410 source:c:\users\pranav_a\desktop\face_recog\recognizer.cpp
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
